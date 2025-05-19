@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+}
+.box{
+	width:200px;
+	height:200px;
+	color:violet;
+	display:flex;
+	background:blue;
+	justify-content:center;
+	align-items:center;
+}
